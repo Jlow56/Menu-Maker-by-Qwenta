@@ -104,16 +104,12 @@ Le Product Owner (Soufiane) étant momentanément indisponible, j’ai été cha
 └── presentation/
 └── menu-maker-soutenance.pptx
 
-yaml
-Copier
-Modifier
-
 ---
 
 ## 📌 Auteur
 
 Jean-Louis Jean  
 Développeur Front-End – OpenClassrooms  
-[Portfolio](#) | [LinkedIn](#) | [GitHub](#)
+[Portfolio](#https://jlo-portfolio-eight.vercel.app/) | [LinkedIn](#www.linkedin.com/in/jean-louis-jean-bienvenu) | 
 
 ---
