@@ -110,6 +110,7 @@ Le Product Owner (Soufiane) étant momentanément indisponible, j’ai été cha
 
 Jean-Louis Jean  
 Développeur Front-End – OpenClassrooms  
-[Portfolio](#https://jlo-portfolio-eight.vercel.app/) | [LinkedIn](#www.linkedin.com/in/jean-louis-jean-bienvenu) | 
+[Portfolio](https://jlo-portfolio-eight.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/jean-louis-jean-bienvenu)
+
 
 ---
